@@ -1,3 +1,16 @@
+
+# Test Attempted
+
+> This is an attempt to bring a NodeJS [sample](https://github.com/nodejs/examples/tree/main/servers/express/api-with-express-and-handlebars) to deploy in a container with AWS CodeBuild with CICD.
+
+## Goal
+1. Docker build with alphine image for minimizing storage.
+2. AWS buildspec for build with source.
+3. Auto provision of build plans / deployment plans / pipeline (should be seaprated.)
+
+
+# Original comment from teh example
+
 # API with Express & Handlebar Templates
 
 > Use Express.js to create three (3) routes that consume the [API](https://nodejs.org/dist/index.json)
