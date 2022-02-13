@@ -4,7 +4,7 @@
           "command": null,
           "entryPoint": null,
           "essential": true,
-          "image": "lb-test-api",
+          "image": "657028987194.dkr.ecr.ap-east-1.amazonaws.com/lb-test-api:latest",
           "logConfiguration": { 
              "logDriver": "awslogs",
              "options": { 
